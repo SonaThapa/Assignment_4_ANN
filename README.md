@@ -35,5 +35,3 @@ Here is a preview of the application:
 
 ![App Screenshot](assignment_4-ANN/Screenshot 2024-11-22 145811.png.png)
 
-
-
