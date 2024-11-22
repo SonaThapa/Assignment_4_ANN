@@ -31,4 +31,9 @@ https://assignment4-ann-2k7sxi9nhe5j8p8hfe3ipq.streamlit.app/
 
 ## Preview
 
+Here is a preview of the application:
+
+![App Screenshot](assignment_4-ANN/Screenshot 2024-11-22 145811.png.png)
+
+
 
