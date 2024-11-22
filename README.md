@@ -20,7 +20,7 @@ Two target classes:
 ## Qualities
 Data Preprocessing and Feature Selection: The project entails importing the dataset on breast cancer, dealing with missing values, and utilizing SelectKBest to choose the most pertinent features.
 
-ANN Model Construction and Assessment: MLPClassifier from sklearn is used to construct a neural network model. Grid Search Cross-Validation is used to optimize the model's hyperparameters in order to enhance performance.
+* ANN Model Construction and Assessment: MLPClassifier from sklearn is used to construct a neural network model. Grid Search Cross-Validation is used to optimize the model's hyperparameters in order to enhance performance.
 Streamlit App for Predictions and User Interaction: Users can enter feature values into an interactive web application that uses Streamlit to forecast if a tumor is benign or malignant.
 The project structure includes the following scripts: data_preparation.py, which loads and prepares the dataset; feature_selection.py, which selects features; and model_selection.py, which uses Grid Search to adjust the ANN model hyperparameters.The ANN model's creation and training script
 Breast cancer data.csv is a preprocessed dataset, and streamlit.py is a Streamlit application for user interaction and predictions.
