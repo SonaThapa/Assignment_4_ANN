@@ -1,5 +1,6 @@
 # Assignment_4_ANN
 Breast Cancer Data Analysis and Streamlit App
+<<<<<<< HEAD
 Data preprocessing, feature selection, ANN model construction, and the development of a Streamlit app for breast cancer prediction are all part of this project.
 
 Setup: *python -m venv Name *create venv
@@ -26,3 +27,6 @@ The project structure includes the following scripts: data_preparation.py, which
 Breast cancer data.csv is a preprocessed dataset, and streamlit.py is a Streamlit application for user interaction and predictions.
 Output
 Output
+=======
+https://assignment4-ann-2k7sxi9nhe5j8p8hfe3ipq.streamlit.app/
+>>>>>>> f094eac841b01ba51d4fb523645fdd2b483d3839
