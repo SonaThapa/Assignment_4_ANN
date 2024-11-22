@@ -39,11 +39,12 @@ Streamlit App for Predictions and User Interaction
 Users can input feature values into an interactive web application that uses Streamlit to predict whether a tumor is benign or malignant.
 
 ### Project Structure
-data_preparation.py: Loads and prepares the dataset.
-feature_selection.py: Selects relevant features using SelectKBest.
-model_selection.py: Uses Grid Search to tune the hyperparameters of the ANN model.
-Breast_cancer_data.csv: The preprocessed dataset.
-streamlit.py: Streamlit application for user interaction and predictions.
+
+1. data_preparation.py: Loads and prepares the dataset.
+2. feature_selection.py: Selects relevant features using SelectKBest.
+3. model_selection.py: Uses Grid Search to tune the hyperparameters of the ANN model.
+4. Breast_cancer_data.csv: The preprocessed dataset.
+5. streamlit.py: Streamlit application for user interaction and predictions.
 
 ### Output
 
