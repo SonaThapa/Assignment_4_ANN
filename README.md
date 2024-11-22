@@ -51,5 +51,5 @@ https://assignment4-ann-2k7sxi9nhe5j8p8hfe3ipq.streamlit.app/
 
 ## Preview
 Here is a preview of the application:
-![App Screenshot](]https://github.com/SonaThapa/assignment_4-ANN/blob/main/preview/preview.png)
+<img src="https://github.com/SonaThapa/assignment_4-ANN/blob/main/preview/preview.png" alt="App Screenshot" >
 
