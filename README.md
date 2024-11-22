@@ -33,5 +33,5 @@ https://assignment4-ann-2k7sxi9nhe5j8p8hfe3ipq.streamlit.app/
 
 Here is a preview of the application:
 
-![App Screenshot](assignment_4-ANN/preview.png)
+![App Screenshot](https://github.com/SonaThapa/assignment_4-ANN/preview.png)
 
